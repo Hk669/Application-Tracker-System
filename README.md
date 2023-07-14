@@ -1,4 +1,4 @@
-# Application Tracker System [ATS]
+# Application Tracker System 
 
 
 https://github.com/Hk669/Application-Tracker-System/assets/96101829/17f8ea51-8d02-4b60-a69e-2877d0d0ef3c
