@@ -1,6 +1,11 @@
 # Application Tracker System [ATS]
 
-This repository contains the source code for an Application Tracker System (ATS) that helps in analyzing resumes and job descriptions. The system uses natural language processing techniques to calculate the similarity between the resume and job description, allowing for efficient application screening.
+
+https://github.com/Hk669/Application-Tracker-System/assets/96101829/17f8ea51-8d02-4b60-a69e-2877d0d0ef3c
+
+
+
+This repository contains the source code for an Application Tracker System that helps in analyzing resumes and job descriptions. The system uses natural language processing techniques to calculate the similarity between the resume and job description, allowing for efficient application screening.
 
 ## Features
 
@@ -19,18 +24,11 @@ This repository contains the source code for an Application Tracker System (ATS)
 
 ## Setup and Usage
 
-1. Clone the repository:
+Clone the repository:  git clone https://github.com/Hk669/Application-Tracker-System.git
 
+Access the application by navigating to `http://localhost:5000/` in your web browser.
 
-2. Install the required dependencies:
-
-
-3. Run the Flask application:
-
-
-4. Access the application by navigating to `http://localhost:5000/` in your web browser.
-
-5. Upload resumes and job descriptions using the provided interface and view the similarity score and selection status.
+Upload resumes and job descriptions using the provided interface and view the similarity score and selection status.
 
 ## Folder Structure
 
@@ -40,7 +38,7 @@ This repository contains the source code for an Application Tracker System (ATS)
   
 ## Contribution
 
-Contributions to the Application Tracker System (ATS) project are welcome. If you find any bugs, have suggestions for improvements, or want to add new features, please submit an issue or create a pull request.
+Contributions to the Application Tracker System project are welcome. If you find any bugs, have suggestions for improvements, or want to add new features, please submit an issue or create a pull request.
 
 ## License
 
